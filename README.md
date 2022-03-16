@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @avdlt
 - 👀 I’m interested in ... trading
 - 🌱 I’m currently learning ... options
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate build a ... trading community
+- 📫 How to reach me ... pm
 
 <!---
 avdlt/avdlt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
