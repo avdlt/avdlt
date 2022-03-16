@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avdlt
 - 👀 I’m interested in ... trading
 - 🌱 I’m currently learning ... options
-- 💞️ I’m looking to collaborate build a ... trading community
+- 💞️ I’m looking to collaborate to a build ... trading community
 - 📫 How to reach me ... pm
 
 <!---
